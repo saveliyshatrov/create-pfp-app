@@ -1,6 +1,6 @@
 {
   "name": "create-pfp-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Creates fullstack monorepo based on React + Express",
   "type": "module",
   "bin": {
@@ -17,7 +17,15 @@
     "create",
     "template",
     "monorepo",
-    "fullstack"
+    "fullstack",
+    "typescript",
+    "esLint",
+    "prettier",
+    "jest",
+    "react",
+    "express",
+    "webpack",
+    "swagger"
   ],
   "author": "https://github.com/saveliyshatrov",
   "license": "MIT"
