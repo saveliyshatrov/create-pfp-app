@@ -6,7 +6,7 @@ import { execSync } from "child_process";
 import fs from "fs";
 import path from "path";
 
-const REPO_URL = "https://github.com/saveliyshatrov/Project.git";
+const REPO_URL = "https://github.com/savshatrov/Project.git";
 
 const defaultName = "my-app";
 
