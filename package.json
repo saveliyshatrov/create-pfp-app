@@ -1,6 +1,6 @@
 {
   "name": "create-pfp-app",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Creates fullstack monorepo based on React + Express",
   "type": "module",
   "bin": {

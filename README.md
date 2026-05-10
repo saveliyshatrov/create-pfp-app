@@ -24,4 +24,6 @@ Perfect for complex admin panels, internal tools, dashboards, and production-gra
 
 ```bash
 npx create-pfp-app
+// or
+pnpm create pfp-app
 ```
